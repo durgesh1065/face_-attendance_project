@@ -1,0 +1,16 @@
+opencv-python
+face-recognition
+numpy
+pandas
+python-csv
+datetime
+flask
+opencv-python
+face_recognition
+numpy
+pandas
+flask
+opencv-python
+face-recognition
+numpy
+pandas
