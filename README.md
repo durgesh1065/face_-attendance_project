@@ -18,8 +18,3 @@ Designed a real-time, touch-free attendance system using facial recognition via 
   The detected face is compared with saved encodings
   If match found → Display name & roll number → Save to CSV
   
-5.Deployment
-  Flask-based lightweight web app
-  Easy to operate: Touch-free, real-time, fast
-  Can be deployed in schools, colleges, or offices
-
