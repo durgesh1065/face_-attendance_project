@@ -1,3 +1,7 @@
+Face Recognition Attendance System
+----
+Designed a real-time, touch-free attendance system using facial recognition via HOG/CNN models and Euclidean distance matching. Implemented a Flask-based web app that captures live face data, compares it with stored encodings, and logs attendance with name and roll number into a CSV file.
+
 1.Algorithm Selection
   Uses face recognition based on HOG (Histogram of Oriented Gradients) or CNN model to encode facial features.
   Compares known encodings to detected faces using Euclidean distance.
