@@ -17,4 +17,7 @@ Designed a real-time, touch-free attendance system using facial recognition via 
 4.Prediction & Logging
   The detected face is compared with saved encodings
   If match found → Display name & roll number → Save to CSV
+
+
+
   
